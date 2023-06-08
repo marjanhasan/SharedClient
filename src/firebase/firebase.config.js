@@ -5,15 +5,15 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC_GaTyB7jjHjDmAUQHfSCLjW4PyDeOXSE",
-  authDomain: "all-in-one-be0e3.firebaseapp.com",
-  projectId: "all-in-one-be0e3",
-  storageBucket: "all-in-one-be0e3.appspot.com",
-  messagingSenderId: "297375449332",
-  appId: "1:297375449332:web:ba04656272a3e538105ea1"
+  apiKey: "AIzaSyBVvXtlSKkmYZExnQFzaxjZWpPUpT10L18",
+  authDomain: "dailyburn-913b5.firebaseapp.com",
+  projectId: "dailyburn-913b5",
+  storageBucket: "dailyburn-913b5.appspot.com",
+  messagingSenderId: "821546040916",
+  appId: "1:821546040916:web:76b55d44a8e7c9ba6737c1",
 };
 
-// Initialize Firebase 
+// Initialize Firebase
 const app = initializeApp(firebaseConfig);
 
-export default app
+export default app;
